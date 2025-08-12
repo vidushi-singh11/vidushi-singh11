@@ -1,3 +1,5 @@
+### Hi there 👋
+
 🚀 About Me
 
 🎓 I’m Vidushi Singh, a pre-final year B.Tech CSE student with a strong interest in Web Development, Machine Learning, and Data Analytics.
