@@ -1,13 +1,20 @@
-### Hi there 👋
+#### Hi there 👋
+----
 
-
-🚀 About Me
-🎓 I’m Vidushi Singh, a pre-final year B.Tech CSE student with a strong interest in Web Development, Machine Learning, and Data Analytics.
-💻 I work on building scalable web applications and experimenting with data-driven solutions that solve real-world problems.
-🌱 Currently exploring API development and integration, creating interactive dashboards in Power BI, and sharpening my DSA problem-solving skills for optimized performance.
-🤝 Open to collaborating on full-stack projects, machine learning models, and data visualization solutions that deliver impact.
-📚 And , if its something outside the tech world, you can find me immersed in the world of literature — reading novels, writing, and exploring storytelling.
+🚀 **About Me** 
 ---
+  
+👩‍💻I am Vidushi Singh, an ambitious **pre-final year B.Tech CSE student**, passionate about **Web Development, Machine Learning,** and **Data Analytics**.
+
+💻 I enjoy building projects, exploring new technologies, and continuously improving my problem-solving skills. 
+
+🌱 Currently learning advanced concepts in **APIs**, **Power BI**, and enhancing my **DSA** skills.  
+
+🤝 Always open to collaborating on full-stack projects, machine learning models, and data visualization solutions. 
+
+📚 Outside the tech world, I enjoy reading novels, writing, and exploring storytelling.
+
+----
 
 ## 🛠 Skills  
 
@@ -27,7 +34,7 @@
 
 ### **Tools**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -41,7 +48,8 @@
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidushi-singh11)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vidushi-singh11)
-⭐️ *From [Vidushi Singh](https://github.com/vidushi-singh11)*
+
+ *From [Vidushi Singh](https://github.com/vidushi-singh11)*
 
 <!--
 **vidushi-singh11/vidushi-singh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
