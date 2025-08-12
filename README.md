@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🚀 About Me
 
+🚀 About Me
 🎓 I’m Vidushi Singh, a pre-final year B.Tech CSE student with a strong interest in Web Development, Machine Learning, and Data Analytics.
 💻 I work on building scalable web applications and experimenting with data-driven solutions that solve real-world problems.
 🌱 Currently exploring API development and integration, creating interactive dashboards in Power BI, and sharpening my DSA problem-solving skills for optimized performance.
