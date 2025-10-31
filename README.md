@@ -39,9 +39,10 @@
 
 ---
 
-## 📌 Pinned Projects  
-- [**CODSOFT**](https://github.com/vidushi-singh11/CODSOFT) — Web Development Internship Tasks  
-- [**Loan-Fraud-Prediction**](https://github.com/vidushi-singh11/Loan-Fraud-Prediction) — Machine Learning Project  
+## 📌 Pinned Projects 
+- [**PORTFOLIO**](https://github.com/vidushi-singh11/myportfolio) —My Portfolio  
+- [**HAWK SHUTTLES**](https://github.com/vidushi-singh11/Hawk-Shuttles) -The Future's Drive
+
 
 ---
 
@@ -51,10 +52,7 @@
 
  *From [Vidushi Singh](https://github.com/vidushi-singh11)*
 
-<!--
-**vidushi-singh11/vidushi-singh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
